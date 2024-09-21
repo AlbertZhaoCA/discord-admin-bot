@@ -3,3 +3,12 @@
 
 # ide files
 .idea
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs
+nohup.out
+
